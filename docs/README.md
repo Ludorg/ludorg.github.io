@@ -1,2 +1,0 @@
-# lisez moi
-README
