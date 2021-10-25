@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto/Roboto-Regular.ttf");
+}
+ 
+@font-face {
+  font-family: "Fira Mono";
+  src: url("assets/fonts/Fira_Mono/FiraMono-Regular.ttf");
+}
+
+body { font-family: 'Roboto'; color: #0C3C6C; }
+
+h1 {
+  font-family: 'Roboto';
+  color: #0c3c6c;
+}
+
+h2 {
+  font-family: 'Roboto';
+  color: #0C0C6C;
+}
+
+h3 {
+  font-family: 'Roboto';
+  color: #0C6C6C;
+}
+
+a {
+  color: #6C3C0C;
+  font-weight: bolder;
+}
+
+.picture-left { 
+  vertical-align: top; 
+  float: left;    
+ 
+}
+
+.red { color: #e91b2c; }
+
+.remark-code { font-family: 'Fira Mono'; font-size: 0.75em }
+.remark-inline-code { font-family: 'Fira Mono';   }
+
+.footnote {
+  position: absolute;
+  bottom: 1em;
+  text-align: right;
+  font-size:small;  
+}
+
+@page {
+  size: 1210px 681px;
+  margin: 0;
+}
+
+@media print {
+  .remark-slide-scaler {
+    width: 100% !important;
+    height: 100% !important;
+    transform: scale(1) !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+}
