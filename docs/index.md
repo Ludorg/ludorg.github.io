@@ -8,4 +8,4 @@ More to come soon.
 
 # Misc
 
-![License](https://img.shields.io/github/license/Ludorg/ludorg.github.io?style=social) [![Twitter Follow](https://img.shields.io/twitter/follow/Ludorg1?style=social])](https://twitter.com/Ludorg1?ref_src=twsrc%5Etfw)
+![License](https://img.shields.io/github/license/Ludorg/ludorg.github.io) [![Twitter Follow](https://img.shields.io/twitter/follow/Ludorg1?style=social])](https://twitter.com/Ludorg1?ref_src=twsrc%5Etfw)
